@@ -1,0 +1,150 @@
+body{
+  color: #40514E;
+margin: 0px;
+text-align: center;
+font-family: 'Merriweather',serif;
+}
+
+p{
+  line-height: 2;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 200px auto 200px auto;
+    text-align: left;
+}
+
+hr{
+  margin: 100px auto 100px auto;
+  border: none;
+  border-top: 3px dotted;
+  border-width: 10px;
+  width: 10%;
+  border-color: #EAF6F6;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.programmer{
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.biography{
+  color: #40514E;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.top-container{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+
+.self-image{
+  max-width: 256px;
+  max-height: 256px;
+  border-radius: 500px;
+}
+
+.Web-Development-Skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Working-Out{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0px;
+  padding: 50px;
+}
+
+.copyrightss{
+color:  #EAF6F6;
+}
+
+.contact-message{
+  width: 350px;
+  margin: 40px auto;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:9px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding:20px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  text-height: 50px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
